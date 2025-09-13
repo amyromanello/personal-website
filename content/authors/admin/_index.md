@@ -57,26 +57,26 @@ education:
     date_start: 2020-09-01
     date_end: ''
     summary: |
-      Thesis on _Temporal complexity of resting-state brain signals_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+      Thesis on _Temporal complexity of resting-state brain signals_. 
+      Supervised by Prof. Dr. Carsten Finke and Dr. Stephan Krohn. 
+      Co-authored 11 papers as of September 2025.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com/thesis.pdf'
+  - area: MS Medical Neuroscience
+    institution: Charité – Universitätsmedizin Berlin
+    date_start: 2018-10-01
+    date_end: 2020-10-01
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+      Thesis on _Altered functional connectivity dynamics and disability severity in multiple sclerosis_.
+  - area: BS Behavioral Neuroscience
+    institution: Northeastern University 
+    date_start: 2013-08-01
+    date_end: 2018-05-01
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Relevant coursework in: Biological Psychology, Psychopharmacology, 
+      Neurobiology of Cognitive Decline, Multidisciplinary Approaches to Motor Control, 
+      Brain, Behavior & Immunity, Physics, Calculus & Differential Equations. 
 
 work:
   - position: Senior AI Research Scientist
