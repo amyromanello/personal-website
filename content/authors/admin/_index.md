@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD Neuroscience
     institution: Charité – Universitätsmedizin Berlin
-    date_start: 2020-09
-    date_end: Ongoing
+    date_start: 2020-09-01
+    date_end: ''
     summary: |
       Thesis on _Temporal complexity of resting-state brain signals_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
