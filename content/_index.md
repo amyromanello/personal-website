@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '4rem'
 
 sections:
   - block: resume-biography-3
@@ -20,10 +20,11 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: "Hi, I'm Amy!"
+        about: ""
         education: ''
         interests: ''
-      icon: hb/exclamation-triangle
+      #icon_pack: hb
+      #icon: exclamation-triangle
     design:
       #icon: hb/exclamation-triangle
       # Apply a gradient background
@@ -32,15 +33,29 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+      spacing:
+        padding: ['0', '0', '0', '0']
+        
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🧠 My Research 🧲'
       subtitle: ''
-      text: Coming soon...
+      text: My research investigates the organization of brain networks using both functional and structural MRI. On the functional side, I study the spatiotemporal dynamics of brain activity with methods such as weighted permutation entropy and functional connectivity, aiming to understand how local signal properties relate to large-scale connectivity patterns and how these relationships are altered in neurological disease. I am also interested in extending this work toward dynamical systems and whole-brain modeling, in order to test mechanistic accounts of network behavior.  
+      
+        
+        On the structural side, I apply fractal geometry to describe the irregularity of brain morphology during development and in clinical populations. Fractal dimensionality provides a scale-invariant way to characterize structural form that extends beyond traditional volumetric approaches, offering new perspectives on how the brain’s shape evolves and changes in disease.
+        
+       
+        Looking forward, I am eager to integrate new methods across different spatial and temporal levels of analysis. Linking insights from genetics and microstructure to large-scale dynamics, to gain a deeper understanding of the principles that govern brain function and give rise to phenomenological, cognitive, and behavioral variability.
 
+        
         Please reach out to collaborate 😃
     design:
       columns: '1'
+      spacing: 
+        padding: ['2rem', '2rem', '2rem', '2rem']
+      css_style: 'text-justify'
+      
 #  - block: collection
 #    id: papers
 #    content:
@@ -52,6 +67,7 @@ sections:
 #    design:
 #      view: article-grid
 #      columns: 2
+  
   - block: collection
     id: papers
     content:
@@ -63,6 +79,7 @@ sections:
         exclude_featured: true
     design:
       view: citation
+      
 #  - block: collection
 #    id: talks
 #    content:

@@ -1,11 +1,11 @@
 ---
-title: Reduced resilience of brain state transitions in anti‐ textitN ‐methyl‐D‐aspartate
+title: Reduced resilience of brain state transitions in anti‐N‐methyl‐D‐aspartate
   receptor encephalitis
 authors:
 - Nina von Schwanenflug
 - Juan P. Ramirez‐Mahaluf
 - Stephan Krohn
-- Amy Romanello
+- admin
 - Josephine Heine
 - Harald Prüss
 - Nicolas A. Crossley

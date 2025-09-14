@@ -2,16 +2,16 @@
 title: 'Functional connectivity is linked to symbolic BOLD patterns: replication,
   extension, and clinical application of the human ‘complexome’'
 authors:
-- Amy Romanello
+- admin
 - Nina von Schwanenflug
 - Friedemann Paul
 - Harald Prüss
 - Stephan Krohn
 - Carsten Finke
-date: '2025-09-01'
+date: '2025-09-05'
 publishDate: '2025-09-13T23:11:22.938367Z'
 publication_types:
-- manuscript
+- preprint
 publication: '*bioRxiv*'
 doi: 10.1101/2025.09.05.674447
 abstract: 'Functional connectivity (FC) quantifies the temporal coherence of blood-oxygen-level-dependent

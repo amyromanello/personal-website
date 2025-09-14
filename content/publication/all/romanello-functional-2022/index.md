@@ -2,7 +2,7 @@
 title: Functional connectivity dynamics reflect disability and multi-domain clinical
   impairment in patients with relapsing-remitting multiple sclerosis
 authors:
-- Amy Romanello
+- admin
 - Stephan Krohn
 - Nina von Schwanenflug
 - Claudia Chien

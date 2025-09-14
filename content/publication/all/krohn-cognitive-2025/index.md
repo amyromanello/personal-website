@@ -5,7 +5,7 @@ authors:
 - Stephan Krohn
 - Leonie Müller-Jensen
 - Joseph Kuchling
-- Amy Romanello
+- admin
 - Katharina Wurdack
 - Sophia Rekers
 - Thorsten Bartsch

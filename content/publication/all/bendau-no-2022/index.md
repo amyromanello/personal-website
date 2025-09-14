@@ -8,7 +8,7 @@ authors:
 - Jonas Helbig
 - Simon Reiche
 - Roman Marek
-- Amy Romanello
+- admin
 - Daa Un Moon
 - Rosa Elisa Gross
 - Dario Jalilzadeh Masah

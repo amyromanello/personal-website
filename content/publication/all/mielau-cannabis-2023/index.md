@@ -8,7 +8,7 @@ authors:
 - Elisa Groß
 - Stefan Gutwinski
 - Felix Betzler
-- Amy Romanello
+- admin
 - Dario Jalilzadeh Masah
 - Matteo Scicchitano
 - Roman Marek

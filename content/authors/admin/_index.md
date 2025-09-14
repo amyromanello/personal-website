@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'amy.romanello@charite.de'
+    url: 'mailto:amy.romanello@charite.de'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/amyromanello
@@ -50,6 +50,7 @@ interests:
   - Complex systems
   - Fractal geometry
   - MRI
+  - Non-ordinary states
 
 education:
   - area: PhD Neuroscience
@@ -172,8 +173,8 @@ languages:
 #      Recognized for contributions to scaling laws in deep learning.
 ---
 
-Hi, I'm Amy!  
+Hi, I'm Amy — a Berlin-based neuroscientist and artist interested in the complex organization of the human brain.  
 
-I'm a doctoral candidate at the [Berlin School of Mind and Brain](https://www.mind-and-brain.de/) and in the [Cognitive Neurology Lab](https://cognitive-neurology.com/) at Charité-Universitätsmedizin Berlin. I study resting-state brain dynamics in normative and clinical populations. I'm interested in applying computational methods in the analysis of functional MRI data to investigate the spatiotemporal patterns of functional connectivity and variability in BOLD signals. I hold degrees in Behavioral Neuroscience (BSc) and Medical Neuroscience (MSc).  
+As a doctoral candidate in the [Cognitive Neurology Lab](https://cognitive-neurology.com/), my scientific work incorporates multi-modal MRI, where I apply methods from information theory, stochastic analysis, and fractal geometry to investigate spatiotemporal properties of large-scale brain networks. I focus on linking local activity to global patterns of connectivity, with applications in normative populations and neurological disease, such as multiple sclerosis and autoimmune encephalitis. 
 
-Outside of academia, I'm an [artist](https://nothingtwoserious.art/), cat mom, and knitter. I'm also involved with harm reduction and health policy reform initiatives both in Germany and abroad.
+Alongside research, I pursue an [artistic practice](https://nothingtwoserious.art/) that reflects on perception, structure, and complexity from outside the lab, offering a complementary lens on the systems that shape human experience. I enjoy bridging disciplines and finding creative ways to connect innovative research with broader human experience.

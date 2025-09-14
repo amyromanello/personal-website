@@ -2,16 +2,18 @@
 title: The formation of brain shape in human newborns
 authors:
 - Stephan Krohn
+- admin
 - Nina Von Schwanenflug
-- Amy Romanello
+- Jerod M. Rasmussen
+- Claudia C. Buss
 - Sofie L. Valk
 - Christopher R. Madan
 - Carsten Finke
-date: '2023-01-01'
+date: '2025-06-01'
 publishDate: '2025-09-13T23:11:22.866653Z'
 publication_types:
 - manuscript
-publication: '*Neuroscience*'
+publication: '*(Accepted, provisional). Preprint available on bioRxiv*'
 doi: 10.1101/2023.01.01.521756
 abstract: The neonatal period represents a critical phase of human brain development.
   During this time, the brain shows a dramatic increase in size, but it remains largely

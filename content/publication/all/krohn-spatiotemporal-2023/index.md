@@ -4,7 +4,7 @@ authors:
 - Stephan Krohn
 - Nina von Schwanenflug
 - Leonhard Waschke
-- Amy Romanello
+- admin
 - Martin Gell
 - Douglas D Garrett
 - Carsten Finke

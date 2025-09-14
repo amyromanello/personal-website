@@ -8,7 +8,7 @@ authors:
 - Roman M. Marek
 - Daa Un Moon
 - Elisa Groß
-- Amy Romanello
+- admin
 - Dario Jalilzadeh Masah
 - Matteo Scicchitano
 - Stefan Gutwinski
