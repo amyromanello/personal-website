@@ -114,10 +114,28 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Applied stochastics
+      - name: Stochastics
         description: ''
         percent: 85
         icon: chart-bar
+  - name: MRI Tools
+    items:
+      - name: Freesurfer
+        description: ''
+        percent: 80
+        icon: hero/wrench-screwdriver
+      - name: fMRIPrep & CONN
+        description: ''
+        percent: 90
+        icon: hero/wrench-screwdriver
+      - name: FSL
+        description: ''
+        percent: 80
+        icon: hero/wrench-screwdriver
+      - name: SPM
+        description: ''
+        percent: 70
+        icon: hero/wrench-screwdriver
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

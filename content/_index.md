@@ -72,13 +72,19 @@ sections:
     id: papers
     content:
       title: Recent Publications
-      text: ''
+      text:
       filters: 
         folders:
           - publication
         exclude_featured: true
     design:
       view: citation
+      css_class: hbx-bg-gradient
+      spacing:
+        padding: ['35px', '0', '0', '0']
+      
+
+      
       
 #  - block: collection
 #    id: talks

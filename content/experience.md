@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '2rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -22,14 +22,26 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
+      text: |-
+        
     design:
       show_skill_percentage: false
 #  - block: resume-awards
 #    content:
 #      title: Awards
 #      username: admin
-  - block: resume-languages
+#  - block: resume-languages
+#    content:
+#      title: Languages
+#      username: admin
+  - block: markdown
     content:
-      title: Languages
+      title: 
+      text: |
+        <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white" style="text-align: center">Languages</div>
+        English: Native | German: A2
       username: admin
+      design:
+        css_style: 'text-center'
+
 ---
