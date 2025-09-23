@@ -88,9 +88,9 @@ jobs:
           HUGO_CACHEDIR: ${{ github.workspace }}/.hugo_cache
         run: |
           mkdir -p $HUGO_CACHEDIR
-          echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          hugo mod get -u ./...
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          hugo mod clean       # removes any leftover module state
+          hugo mod tidy        # downloads modules cleanly
+          hugo --minify --ignoreCache --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Generate Pagefind search index (if applicable)
         run: |
