@@ -82,7 +82,9 @@ jobs:
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
+          HUGO_CACHEDIR: ${{ github.workspace }}/.hugo_cache
         run: |
+          mkdir -p $HUGO_CACHEDIR
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo mod get -u ./...
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
