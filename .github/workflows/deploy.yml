@@ -79,6 +79,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Clean Hugo module cache
+        run: rm -rf ${{ github.workspace }}/.hugo_cache/modules
+
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
