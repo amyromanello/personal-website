@@ -1,0 +1,46 @@
+---
+title: Memory dysfunction and psychiatric outcomes in anti-NMDA receptor encephalitis are linked to altered structural brain complexity
+authors:
+- Stephan Krohn
+- Guido Cammà
+- Wei Zhao
+- admin
+- Katharina Wurdack
+- Ole Jonas Böken
+- Sophia Rekers
+- Friedemann Paul
+- Harald Prüß
+- Carsten Finke
+date: '2025-09-22'
+publishDate: '2025-09-22T23:11:22.866653Z'
+publication_types:
+- preprint
+publication: '*bioRxiv*'
+doi: 10.1101/2025.09.22.677264
+abstract: "'*Introduction*: Most patients with anti-N-methyl-D-aspartate receptor encephalitis (NMDARE) experience long-term neuropsychiatric sequelae despite immunotherapy. 
+    However, how these residual symptoms relate to structural brain changes in the post-acute phase remains unclear. 
+    Recently, fractal dimensionality (FD) has emerged as a sensitive imaging marker of structural brain complexity in related conditions but has not been explored in autoimmune encephalitis. 
+    
+    *Methods*: This cross-sectional study combined clinical, cognitive, and neuroimaging analyses in 70 patients with post-acute NMDARE (median time from onset: 22 months),
+     and 70 healthy controls matched for age (t=-0.57, p=0.57) and sex (χ2=0, p=1). High-resolution T1-weighted magnetic resonance imaging (MRI) data were analyzed with FreeSurfer 
+     and computational fractal analysis. Clinical outcomes were assessed with the modified Rankin Scale (mRS) and Clinical Assessment Scale in Autoimmune Encephalitis (CASE). 
+     Psychiatric manifestations underwent phenotypical analyses, and memory performance was assessed with standardized neuropsychological tests. 
+     
+    *Results*: Patients with NMDARE were severely affected at peak illness but showed substantial overall improvement in the post-acute stage 
+    (median mRS at peak=5, post-acute=1, z=-7.2, p<0.001; median CASE at peak=11, post-acute=1, z=-7.2, p<0.001). 
+    However, 67% of patients showed residual CASE symptoms, with memory dysfunction (61%) and psychiatric symptoms (36%) representing the most prevalent domains. 
+    Therein, psychiatric symptoms showed a phenotypical shift from a 'schizophrenia-like' phenotype at peak illness to an 
+    affective phenotype in the post-acute stage. Neuroimaging uncovered a characteristic pattern of reduced structural brain complexity, 
+    including the hippocampus bilaterally and a fronto-cingulo-temporal cluster in cortical gray matter and cerebral white matter. 
+    Importantly, normative modeling revealed that patients with residual symptoms showed stronger alterations of brain complexity than those without 
+    (psychiatric: t=-2.65, p=0.010; memory: t=-3.98, p<0.001; both vs. no symptoms: t=-5.46, p<0.001). 
+    Similarly, patients with stronger alterations of brain complexity showed lower scores of visuospatial and verbal memory (all pFDR<0.015). 
+    
+    *Discussion*: Post-acute NMDARE is characterized by systematic reductions in structural brain complexity, 
+    consistently involving previously implicated regions while identifying changes in the cingulate cortex as a new morphological correlate. 
+    These changes are linked to residual psychiatric symptoms and memory dysfunction, highlighting FD as a promising new imaging marker of long-term outcomes. 
+    Our findings suggest that current treatment strategies may be insufficient to fully address the residual symptom burden after the acute phase of NMDARE.'"
+links:
+- name: URL
+  url: https://doi.org/10.1101/2025.09.22.677264
+---
