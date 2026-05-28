@@ -58,9 +58,9 @@ education:
     date_start: 2020-09-01
     date_end: ''
     summary: |
-      Thesis on _Temporal complexity of resting-state brain signals_. 
-      Supervised by Prof. Dr. Carsten Finke and Dr. Stephan Krohn. 
-      Co-authored 11 papers as of September 2025.
+      Thesis on _Temporal dynamics of resting-state signals: Capturing the complexity of spontaneous brain activity in health and disease_. 
+      Supervised by Prof. Dr. Carsten Finke, Prof. Dr. Philipp Sterzer, and Dr. Stephan Krohn. 
+      As of May 2026: 2 first-authorships and 13 co-authorships (11 published, 2 under review).
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com/thesis.pdf'
