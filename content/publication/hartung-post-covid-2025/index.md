@@ -20,7 +20,7 @@ authors:
 - Carsten Finke
 - the NAPKON Study Group
 date: '2025-11-01'
-publishDate: '2026-05-28T12:41:43.385865Z'
+publishDate: '2026-05-28T13:13:31.378232Z'
 publication_types:
 - article-journal
 publication: '*Annals of Clinical and Translational Neurology*'

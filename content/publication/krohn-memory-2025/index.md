@@ -13,7 +13,7 @@ authors:
 - Harald Prüß
 - Carsten Finke
 date: '2025-09-01'
-publishDate: '2026-05-28T12:41:43.377100Z'
+publishDate: '2026-05-28T13:13:31.369434Z'
 publication_types:
 - manuscript
 publication: '*bioRxiv*'
@@ -32,23 +32,23 @@ abstract: 'Introduction: Most patients with anti-N-methyl-D-aspartate receptor e
   analyses, and memory performance was assessed with standardized neuropsychological
   tests.  Results: Patients with NMDARE were severely affected at peak illness but
   showed substantial overall improvement in the post-acute stage (median mRS at peak=5,
-  postacute=1, z=-7.2, ptextless0.001; median CASE at peak=11, post-acute=1, z=-7.2,
-  ptextless0.001). However, 67% of patients showed residual CASE symptoms, with memory
-  dysfunction (61%) and psychiatric symptoms (36%) representing the most prevalent
-  domains. Therein, psychiatric symptoms showed a phenotypical shift from a ‘schizophrenia-like’
-  phenotype at peak illness to an affective phenotype in the post-acute stage. Neuroimaging
+  postacute=1, z=-7.2, p<0.001; median CASE at peak=11, post-acute=1, z=-7.2, p<0.001).
+  However, 67% of patients showed residual CASE symptoms, with memory dysfunction
+  (61%) and psychiatric symptoms (36%) representing the most prevalent domains. Therein,
+  psychiatric symptoms showed a phenotypical shift from a ‘schizophrenia-like’ phenotype
+  at peak illness to an affective phenotype in the post-acute stage. Neuroimaging
   uncovered a characteristic pattern of reduced structural brain complexity, including
   the hippocampus bilaterally and a fronto-cingulo-temporal cluster in cortical gray
   matter and cerebral white matter. Importantly, normative modeling revealed that
   patients with residual symptoms showed stronger alterations of brain complexity
   than those without (psychiatric: t=-2.65, p=0.010; memory: t=-3.98, ptextless0.001;
-  both vs. no symptoms: t=-5.46, ptextless0.001). Similarly, patients with stronger
-  alterations of brain complexity showed lower scores of visuospatial and verbal memory
-  (all pFDRtextless0.015).  Discussion: Post-acute NMDARE is characterized by systematic
-  reductions in structural brain complexity, consistently involving previously implicated
-  regions while identifying changes in the cingulate cortex as a new morphological
-  correlate. These changes are linked to residual psychiatric symptoms and memory
-  dysfunction, highlighting FD as a promising new imaging marker of long-term outcomes.
-  Our findings suggest that current treatment strategies may be insufficient to fully
-  address the residual symptom burden after the acute phase of NMDARE.'
+  both vs. no symptoms: t=-5.46, p<0.001). Similarly, patients with stronger alterations
+  of brain complexity showed lower scores of visuospatial and verbal memory (all pFDR<0.015).  Discussion:
+  Post-acute NMDARE is characterized by systematic reductions in structural brain
+  complexity, consistently involving previously implicated regions while identifying
+  changes in the cingulate cortex as a new morphological correlate. These changes
+  are linked to residual psychiatric symptoms and memory dysfunction, highlighting
+  FD as a promising new imaging marker of long-term outcomes. Our findings suggest
+  that current treatment strategies may be insufficient to fully address the residual
+  symptom burden after the acute phase of NMDARE.'
 ---

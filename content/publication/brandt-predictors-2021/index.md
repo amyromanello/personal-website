@@ -16,7 +16,7 @@ authors:
 - Tomislav Majić
 - Inge Mick
 date: '2021-10-01'
-publishDate: '2026-05-28T12:41:43.361450Z'
+publishDate: '2026-05-28T13:13:31.354878Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Psychiatry*'
