@@ -10,7 +10,7 @@ permissions:
 on:
   push:
     branches: ['main']
-    paths: ['publications.bib']
+    paths: ['content/publication/publications.bib']
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -69,7 +69,7 @@ jobs:
         if: ${{ hashFiles('content/publication/publications.bib') != '' }}
         run: |
           echo "🚀 Starting publication import..."
-          academic import publications.bib content/publication/ --compact --verbose --overwrite
+          academic import content/publication/publications.bib content/publication/ --compact --verbose --overwrite
           echo "✅ Publication import completed successfully"
           
           # Verify that files were created
