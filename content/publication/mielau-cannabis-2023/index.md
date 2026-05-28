@@ -18,7 +18,7 @@ authors:
 - Tomislav Majić
 - Christiane Montag
 date: '2023-01-01'
-publishDate: '2026-05-28T12:09:06.277845Z'
+publishDate: '2026-05-28T12:20:37.365598Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Psychiatry*'

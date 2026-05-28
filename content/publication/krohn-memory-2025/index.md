@@ -12,10 +12,11 @@ authors:
 - Friedemann Paul
 - Harald Prüß
 - Carsten Finke
-date: -01-01
-publishDate: '2026-05-28T12:09:06.335196Z'
+date: '2025-09-01'
+publishDate: '2026-05-28T12:20:37.424548Z'
 publication_types:
 - manuscript
+publication: '*bioRxiv*'
 abstract: 'Introduction: Most patients with anti-N-methyl-D-aspartate receptor encephalitis
   (NMDARE) experience long-term neuropsychiatric sequelae despite immunotherapy. However,
   how these residual symptoms relate to structural brain changes in the post-acute

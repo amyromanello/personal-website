@@ -10,8 +10,8 @@ authors:
 - Klemens Ruprecht
 - Friedemann Paul
 - Carsten Finke
-date: '2022-01-01'
-publishDate: '2026-05-28T12:09:06.297520Z'
+date: '2022-09-01'
+publishDate: '2026-05-28T12:20:37.381949Z'
 publication_types:
 - article-journal
 publication: '*NeuroImage: Clinical*'
