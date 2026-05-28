@@ -3,7 +3,7 @@ title: Fractal analysis of brain shape formation predicts age and genetic simila
   in human newborns
 authors:
 - Stephan Krohn
-- Amy Romanello
+- admin
 - Nina von Schwanenflug
 - Jerod M. Rasmussen
 - Claudia Buss
@@ -11,7 +11,7 @@ authors:
 - Christopher R. Madan
 - Carsten Finke
 date: '2026-01-01'
-publishDate: '2026-05-28T12:20:37.460019Z'
+publishDate: '2026-05-28T12:41:43.412431Z'
 publication_types:
 - article-journal
 publication: '*Nature Neuroscience*'

@@ -3,7 +3,7 @@ title: Post-COVID Fatigue Is Associated With Reduced Cortical Thickness After Ho
 authors:
 - Tim J. Hartung
 - Florentin Steigerwald
-- Amy Romanello
+- admin
 - Cathrin Kodde
 - Matthias Endres
 - Sandra Frank
@@ -20,7 +20,7 @@ authors:
 - Carsten Finke
 - the NAPKON Study Group
 date: '2025-11-01'
-publishDate: '2026-05-28T12:20:37.433353Z'
+publishDate: '2026-05-28T12:41:43.385865Z'
 publication_types:
 - article-journal
 publication: '*Annals of Clinical and Translational Neurology*'

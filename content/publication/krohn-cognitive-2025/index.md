@@ -5,7 +5,7 @@ authors:
 - Stephan Krohn
 - Leonie Müller-Jensen
 - Joseph Kuchling
-- Amy Romanello
+- admin
 - Katharina Wurdack
 - Sophia Rekers
 - Thorsten Bartsch
@@ -15,7 +15,7 @@ authors:
 - Harald Prüss
 - Carsten Finke
 date: '2025-03-01'
-publishDate: '2026-05-28T12:20:37.416937Z'
+publishDate: '2026-05-28T12:41:43.369183Z'
 publication_types:
 - article-journal
 publication: '*Neurology Neuroimmunology & Neuroinflammation*'

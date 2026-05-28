@@ -5,13 +5,13 @@ authors:
 - Nina von Schwanenflug
 - Juan P. Ramirez‐Mahaluf
 - Stephan Krohn
-- Amy Romanello
+- admin
 - Josephine Heine
 - Harald Prüss
 - Nicolas A. Crossley
 - Carsten Finke
 date: '2023-02-01'
-publishDate: '2026-05-28T12:20:37.374887Z'
+publishDate: '2026-05-28T12:41:43.327220Z'
 publication_types:
 - article-journal
 publication: '*European Journal of Neuroscience*'

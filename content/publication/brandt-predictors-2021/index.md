@@ -8,7 +8,7 @@ authors:
 - Roman M. Marek
 - Daa Un Moon
 - Elisa Groß
-- Amy Romanello
+- admin
 - Dario Jalilzadeh Masah
 - Matteo Scicchitano
 - Stefan Gutwinski
@@ -16,7 +16,7 @@ authors:
 - Tomislav Majić
 - Inge Mick
 date: '2021-10-01'
-publishDate: '2026-05-28T12:20:37.409392Z'
+publishDate: '2026-05-28T12:41:43.361450Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Psychiatry*'
