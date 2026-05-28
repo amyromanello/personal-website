@@ -53,7 +53,7 @@ interests:
   - Non-ordinary states
 
 education:
-  - area: PhD Neuroscience
+  - area: PhD Medical Neuroscience
     institution: Charité – Universitätsmedizin Berlin
     date_start: 2020-09-01
     date_end: ''
