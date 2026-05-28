@@ -10,7 +10,7 @@ authors:
 - Stephan Krohn
 - Carsten Finke
 date: '2026-04-01'
-publishDate: '2026-05-28T12:09:06.363006Z'
+publishDate: '2026-05-28T12:20:37.451437Z'
 publication_types:
 - article-journal
 publication: '*Network Neuroscience*'
