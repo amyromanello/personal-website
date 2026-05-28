@@ -15,7 +15,7 @@ authors:
 - Harald Prüss
 - Carsten Finke
 date: '2025-03-01'
-publishDate: '2026-05-28T12:02:31.078858Z'
+publishDate: '2026-05-28T12:09:06.328562Z'
 publication_types:
 - article-journal
 publication: '*Neurology Neuroimmunology & Neuroinflammation*'
