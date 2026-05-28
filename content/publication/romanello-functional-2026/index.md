@@ -10,7 +10,7 @@ authors:
 - Stephan Krohn
 - Carsten Finke
 date: '2026-04-01'
-publishDate: '2026-05-28T12:41:43.403862Z'
+publishDate: '2026-05-28T13:13:31.395908Z'
 publication_types:
 - article-journal
 publication: '*Network Neuroscience*'
@@ -29,17 +29,17 @@ abstract: 'Functional connectivity (FC) quantifies the temporal coherence of blo
   associations with cognition beyond FC. These findings show that global FC is closely
   related to local patterns within underlying BOLD signals, strengthening the link
   between complexity dynamics and the brain’s functional organization as a large-scale
-  network.Understanding how local neural dynamics give rise to large-scale functional
-  connectivity (FC) remains a central challenge in systems neuroscience. Integrating
-  recent node- and edge-centric approaches, we present a unified model linking global
-  FC to local neural complexity and specifically to symbolic patterns in the underlying
-  fMRI signals. We show that FC is linked to moments of simultaneous complexity decreases,
-  when brain signals predominantly exhibit congruent symbolic patterns. Furthermore,
-  well-established clinical FC alterations are explained by disrupted local complexity
-  dynamics, illustrated in anti-N-methyl-D-aspartate-receptor encephalitis as a model
-  disease of network dysfunction. This framework quantifies the contribution of local
-  pattern variability to global FC, providing opportunities to study network dynamics
-  in health and disease.'
+  network. Author Summary: Understanding how local neural dynamics give rise to large-scale
+  functional connectivity (FC) remains a central challenge in systems neuroscience.
+  Integrating recent node- and edge-centric approaches, we present a unified model
+  linking global FC to local neural complexity and specifically to symbolic patterns
+  in the underlying fMRI signals. We show that FC is linked to moments of simultaneous
+  complexity decreases, when brain signals predominantly exhibit congruent symbolic
+  patterns. Furthermore, well-established clinical FC alterations are explained by
+  disrupted local complexity dynamics, illustrated in anti-N-methyl-D-aspartate-receptor
+  encephalitis as a model disease of network dysfunction. This framework quantifies
+  the contribution of local pattern variability to global FC, providing opportunities
+  to study network dynamics in health and disease.'
 links:
 - name: URL
   url: https://doi.org/10.1162/NETN.a.572
