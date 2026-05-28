@@ -70,6 +70,8 @@ jobs:
         run: |
           echo "🚀 Starting publication import..."
           academic import content/publication/publications.bib content/publication/ --compact --verbose --overwrite
+          # Automatically replace "Amy Romanello" with "admin" in all generated files
+          find content/publication/ -name "index.md" -exec sed -i 's/Amy Romanello/admin/g' {} +
           echo "✅ Publication import completed successfully"
           
           # Verify that files were created
