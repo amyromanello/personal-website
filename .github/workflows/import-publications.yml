@@ -54,7 +54,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install "academic${{ env.ACADEMIC_VERSION }}"
       - name: Validate publications.bib file
-        if: ${{ hashFiles('publications.bib') != '' }}
+        if: ${{ hashFiles('content/publication/publications.bib') != '' }}
         run: |
           if [ ! -f "publications.bib" ]; then
             echo "❌ publications.bib file not found"
@@ -65,7 +65,7 @@ jobs:
       - name: Run Academic (Bibtex To Markdown Converter)
         # Check `.bib` file exists for case when action runs on `.bib` deletion
         # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
-        if: ${{ hashFiles('publications.bib') != '' }}
+        if: ${{ hashFiles('content/publication/publications.bib') != '' }}
         run: |
           echo "🚀 Starting publication import..."
           academic import publications.bib content/publication/ --compact --verbose --overwrite
