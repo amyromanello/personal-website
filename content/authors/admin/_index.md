@@ -58,7 +58,8 @@ education:
     date_start: 2020-09-01
     date_end: ''
     summary: |
-      Thesis on _Temporal dynamics of resting-state signals: Capturing the complexity of spontaneous brain activity in health and disease_. 
+      Thesis on: _Temporal dynamics of resting-state signals: Capturing the complexity of spontaneous brain activity in health and disease_. 
+      
       Supervised by Prof. Dr. Carsten Finke, Prof. Dr. Philipp Sterzer, and Dr. Stephan Krohn. 
       As of May 2026: 2 first-authorships and 13 co-authorships (11 published, 2 under review).
     #button:
@@ -69,15 +70,17 @@ education:
     date_start: 2018-10-01
     date_end: 2020-10-01
     summary: |
-      Thesis on _Altered functional connectivity dynamics and disability severity in multiple sclerosis_.
+      Thesis on: _Altered functional connectivity dynamics and disability severity in multiple sclerosis_.
+      
+       Supervised by Prof. Dr. Carsten Finke and Dr. Stephan Krohn.
   - area: BS Behavioral Neuroscience
     institution: Northeastern University 
     date_start: 2013-08-01
     date_end: 2018-05-01
     summary: |
-      Relevant coursework in: Biological Psychology, Psychopharmacology, 
+      Relevant coursework in: Biological Psychology, Psychopharmacology, Clinical Neuroscience, Cognitive Neuroscience,
       Neurobiology of Cognitive Decline, Multidisciplinary Approaches to Motor Control, 
-      Brain, Behavior & Immunity, Physics, Calculus & Differential Equations. 
+      Brain, Behavior & Immunity, Physics, Organic Chemistry, Calculus & Differential Equations. 
 
 #work:
 #  - position: Senior AI Research Scientist
