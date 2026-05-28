@@ -8,13 +8,13 @@ authors:
 - Stephan Krohn
 - Fabian Boesl
 - Rebekka Rust
-- Amy Romanello
+- admin
 - Friedemann Paul
 - Judith Bellmann-Strobl
 - Christiana Franke
 - Carsten Finke
 date: '2026-03-01'
-publishDate: '2026-05-28T12:20:37.442336Z'
+publishDate: '2026-05-28T12:41:43.394790Z'
 publication_types:
 - article-journal
 publication: '*Brain Communications*'

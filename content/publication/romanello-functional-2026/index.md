@@ -2,7 +2,7 @@
 title: 'Functional connectivity is linked to symbolic BOLD patterns: Replication,
   extension, and clinical application of the human “complexome”'
 authors:
-- Amy Romanello
+- admin
 - Nina von Schwanenflug
 - Michelle Franka
 - Friedemann Paul
@@ -10,7 +10,7 @@ authors:
 - Stephan Krohn
 - Carsten Finke
 date: '2026-04-01'
-publishDate: '2026-05-28T12:20:37.451437Z'
+publishDate: '2026-05-28T12:41:43.403862Z'
 publication_types:
 - article-journal
 publication: '*Network Neuroscience*'

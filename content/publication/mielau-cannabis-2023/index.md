@@ -8,7 +8,7 @@ authors:
 - Elisa Groß
 - Stefan Gutwinski
 - Felix Betzler
-- Amy Romanello
+- admin
 - Dario Jalilzadeh Masah
 - Matteo Scicchitano
 - Roman Marek
@@ -18,7 +18,7 @@ authors:
 - Tomislav Majić
 - Christiane Montag
 date: '2023-01-01'
-publishDate: '2026-05-28T12:20:37.365598Z'
+publishDate: '2026-05-28T12:41:43.317420Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Psychiatry*'

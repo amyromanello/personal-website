@@ -8,7 +8,7 @@ authors:
 - Jonas Helbig
 - Simon Reiche
 - Roman Marek
-- Amy Romanello
+- admin
 - Daa Un Moon
 - Rosa Elisa Gross
 - Dario Jalilzadeh Masah
@@ -19,7 +19,7 @@ authors:
 - Tomislav Majić
 - Felix Betzler
 date: '2022-04-01'
-publishDate: '2026-05-28T12:20:37.391198Z'
+publishDate: '2026-05-28T12:41:43.343568Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Drug Policy*'
