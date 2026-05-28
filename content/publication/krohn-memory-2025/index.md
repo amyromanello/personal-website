@@ -13,7 +13,7 @@ authors:
 - Harald Prüß
 - Carsten Finke
 date: -01-01
-publishDate: '2026-05-28T12:02:31.085895Z'
+publishDate: '2026-05-28T12:09:06.335196Z'
 publication_types:
 - manuscript
 abstract: 'Introduction: Most patients with anti-N-methyl-D-aspartate receptor encephalitis
