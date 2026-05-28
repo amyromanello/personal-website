@@ -19,7 +19,7 @@ authors:
 - Tomislav Majić
 - Felix Betzler
 date: '2022-04-01'
-publishDate: '2026-05-28T11:08:25.538545Z'
+publishDate: '2026-05-28T11:32:53.889590Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Drug Policy*'

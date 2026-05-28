@@ -11,7 +11,7 @@ authors:
 - Friedemann Paul
 - Carsten Finke
 date: '2022-01-01'
-publishDate: '2026-05-28T11:08:25.529015Z'
+publishDate: '2026-05-28T11:32:53.881076Z'
 publication_types:
 - article-journal
 publication: '*NeuroImage: Clinical*'
