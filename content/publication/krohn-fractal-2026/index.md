@@ -40,7 +40,7 @@ links:
   url: https://www.nature.com/articles/s41593-025-02107-w
 ---
 
-<div style="max-width: 800px; margin: 0 auto; text-align: center;">
+<div id="brain-video" style="max-width: 800px; margin: 0 auto; text-align: center;">
   <video style="display: block; width: 100%; margin-bottom: 0px;" autoplay muted playsinline loop controls>
     <source src="GrowingBrain_Neonatal_dHCP_cropped_v2.mp4" type="video/mp4">
     Your browser does not support the video tag.
