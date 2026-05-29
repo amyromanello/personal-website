@@ -39,3 +39,14 @@ links:
 - name: URL
   url: https://www.nature.com/articles/s41593-025-02107-w
 ---
+
+<div style="max-width: 800px; margin: 0 auto; text-align: center;">
+  <video style="display: block; width: 100%; margin-bottom: 0px;" autoplay muted playsinline loop controls>
+    <source src="GrowingBrain_Neonatal_dHCP_cropped_v2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p style="margin-top: 15px; font-size: 0.95em; line-height: 1.3;">
+    This video illustrates the rapid development of neonatal brain shape in the first weeks of life.
+    Visualizations were created with the publicly available <a href="https://brain-development.org/brain-atlases/atlases-from-the-dhcp-project/cortical-surface-template/" target="_blank">dHCP neonatal surface templates</a> and custom MATLAB code by Amy Romanello.
+  </p>
+</div>
