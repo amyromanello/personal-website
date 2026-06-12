@@ -82,15 +82,17 @@ education:
       Neurobiology of Cognitive Decline, Multidisciplinary Approaches to Motor Control, 
       Brain, Behavior & Immunity, Physics, Organic Chemistry, Calculus & Differential Equations. 
 
-#work:
-#  - position: Senior AI Research Scientist
-#    company_name: Meta AI
-#    company_url: 'https://ai.meta.com/'
-#    company_logo: ''
-#    date_start: 2020-01-01
-#    date_end: ''
-#    summary: |2-
-#      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+work:
+  - position: Postdoctoral Research Scientist in Advanced MRI Analysis Methods
+    company_name: Max Planck Institute for Human Cognitive and Brain Sciences
+    company_url: 'https://ai.meta.com/'
+    company_logo: ''
+    date_start: 2026-06-01
+    date_end: ''
+    summary: |2-
+      I've recently joined the Neurophysics department at MPI-CBS in Leipzig! 
+      
+      I'm working on a variety of projects spanning high-resolution connectomics, quantitative multi-parameter mapping, and the automation of MR image processing pipelines.
 #  - position: AI Research Intern
 #    company_name: OpenAI
 #    company_url: 'https://openai.com/'
@@ -196,6 +198,8 @@ languages:
 
 Hi, I'm Amy — a Berlin-based neuroscientist and artist interested in the complex organization of the human brain.  
 
-As a doctoral candidate in the [Cognitive Neurology Lab](https://cognitive-neurology.com/), my scientific work incorporates multi-modal MRI, where I apply methods from information theory, stochastic analysis, and fractal geometry to investigate spatiotemporal properties of large-scale brain networks. I focus on linking local activity to global patterns of connectivity, with applications in normative populations and neurological disease, such as multiple sclerosis and autoimmune encephalitis. 
+As a postdoc in the Neurophysics department at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/departments/neurophysics), my scientific work incorporates multi-modal MRI and advanced analysis methods. I'm currently deepening skills in high-resolution structural connectomics and quantitative multi-parameter mapping. Upcoming projects focus on the integration of microstructural information and biophysical models with macro-scale brain dynamics.
+
+As a former doctoral candidate in the [Cognitive Neurology Lab](https://cognitive-neurology.com/) at Charité, I applied methods from information theory, stochastic analysis, and fractal geometry to investigate spatiotemporal properties of large-scale brain networks. This work aimed to link local activity patterns to global connectivity, with applications in normative populations and neuroimmunological diseases.
 
 Alongside research, I pursue an [artistic practice](https://nothingtwoserious.art/) that reflects on perception, structure, and complexity from outside the lab, offering a complementary lens on the systems that shape human experience. I enjoy bridging disciplines and finding creative ways to connect innovative research with broader human experience.
