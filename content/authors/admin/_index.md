@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:amy.romanello@charite.de'
+    url: 'mailto:romanello@cbs.mpg.de'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/amyromanello
@@ -198,7 +198,7 @@ languages:
 
 Hi, I'm Amy — a Berlin-based neuroscientist and artist interested in the complex organization of the human brain.  
 
-As a postdoc in the Neurophysics department at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/departments/neurophysics), my scientific work incorporates multi-modal MRI and advanced analysis methods. I'm currently deepening skills in high-resolution structural connectomics and quantitative multi-parameter mapping. Upcoming projects focus on the integration of microstructural information and biophysical models with macro-scale brain dynamics.
+As a postdoc in the Neurophysics department at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/departments/neurophysics), my scientific work incorporates multi-modal MRI and advanced analysis methods. Currently, I'm deepening skills in high-resolution structural connectomics and quantitative multi-parameter mapping. Upcoming projects focus on the integration of microstructural information and biophysical models with large-scale brain dynamics.
 
 As a former doctoral candidate in the [Cognitive Neurology Lab](https://cognitive-neurology.com/) at Charité, I applied methods from information theory, stochastic analysis, and fractal geometry to investigate spatiotemporal properties of large-scale brain networks. This work aimed to link local activity patterns to global connectivity, with applications in normative populations and neuroimmunological diseases.
 
